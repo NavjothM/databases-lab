@@ -1,0 +1,6 @@
+order_id,customer,amount,order_date
+1,alice,120.50,2026-01-03
+2,bob,75.00,2026-01-04
+3,carol,310.25,2026-01-04
+4,alice,42.10,2026-01-05
+5,dave,99.99,2026-01-06
